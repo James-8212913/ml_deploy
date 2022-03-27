@@ -1,0 +1,24 @@
+---
+title: ADSI ML Report
+subtitle: Beer Classification
+author: James Murray - 13879046
+institute: UTS
+classoption:
+  - article
+include-before: Version 0.1.1
+thanks:
+date: April 2022
+titlepage: true
+toc: true
+lof: true
+toc-own-page: true
+toc-title: Contents
+bibliography: true
+link-citations: true
+colorlinks: true
+urlcolour: blue
+citations: true
+columns: 2
+abstract: |
+  This report detials the steps and processes that we taken in developing a beer classification model using deep learning. Predictions can be made at the following link XXX using the following attributes. 
+---
