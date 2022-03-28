@@ -4,3 +4,6 @@ model_dev/data
 
 # ignore all .csv files
 *.csv
+
+# ignore all pycache files
+__pycache__
