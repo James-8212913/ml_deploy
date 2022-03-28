@@ -11,3 +11,5 @@ __pycache__
 # ignore all data files
 
 model_dev/data
+adsi_2
+*.csv
