@@ -6,4 +6,4 @@ model_dev/data
 *.csv
 
 # ignore all pycache files
-__pycache__
+__pycache__model_dev/data
