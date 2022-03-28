@@ -1,1 +1,6 @@
-model_dev/data *.csv
+# ignore all data files
+
+model_dev/data
+
+# ignore all .csv files
+*.csv
