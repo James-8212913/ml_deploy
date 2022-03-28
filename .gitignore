@@ -13,3 +13,4 @@ __pycache__
 model_dev/data
 adsi_2
 *.csv
+.ipynb_checkpoints
